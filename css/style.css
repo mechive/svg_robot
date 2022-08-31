@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(59, 59, 59) !important;
+  position: fixed;
+}
+
+* {
+  overflow: visible;
+}
+
+#BASE {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+
+#BASE-ARM {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+
+#BASE-ARM-1 {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}/*# sourceMappingURL=style.css.map */
